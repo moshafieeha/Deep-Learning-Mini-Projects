@@ -1,8 +1,8 @@
-### Problem Statement
+## Problem Statement
 
 The project aims to train a ResNet model on the CIFAR10 dataset using different training techniques to improve its robustness against adversarial attacks. Specifically, it involves using traditional cross-entropy loss, incorporating data augmentation, and experimenting with circle loss to enhance the model's generalization and adversarial resistance.
 
-### Solution Overview
+## Solution Overview
 
 1. **Setup and Installation**:
     - Install the necessary libraries including `pytorch_metric_learning` for advanced loss functions.
@@ -15,7 +15,7 @@ The project aims to train a ResNet model on the CIFAR10 dataset using different 
     - Train a ResNet18 model on the CIFAR10 dataset using different loss functions and data augmentation techniques.
     - Evaluate the model's performance on original and adversarial test sets using K-Nearest Neighbors (KNN) classifier and UMAP for feature visualization.
 
-### Key Steps and Methods
+## Key Steps and Methods
 
 1. **Original Data with Cross-Entropy Loss**:
     - **Training**: Train the ResNet18 model on the original CIFAR10 dataset using cross-entropy loss.
@@ -30,7 +30,7 @@ The project aims to train a ResNet model on the CIFAR10 dataset using different 
     - **Training**: Train a modified ResNet18 model with the optimal circle loss parameters.
     - **Evaluation**: Evaluate the performance of the circle loss-trained model on original and adversarial test sets using KNN.
 
-### Results and Observations
+## Results and Observations
 
 1. **Original Data with Cross-Entropy Loss**:
     - Training and validation loss decreased over epochs.
@@ -51,7 +51,7 @@ The project aims to train a ResNet model on the CIFAR10 dataset using different 
     - Accuracy on adversarial test data: 14.04%
     - UMAP visualization indicated dense clustering but less distinct class separations.
 
-### How to Use
+## How to Use
 
 1. **Setup**:
     - Install the required libraries using `pip install pytorch_metric_learning`.
