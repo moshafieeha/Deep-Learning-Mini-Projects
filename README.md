@@ -1,5 +1,5 @@
 # Machine Learning and Deep Learning Mini Projects
-Welcome to Deep-Learning-Mini-Projects, for exploring the exciting world of Deep Learning! This repository is based on the deep learning courses that I enrolled in ECE, UT, offering a collection of engaging mini-projects that will equip you with practical skills and a deeper understanding of Deep Learning concepts.
+Welcome to my repository, for exploring the exciting world of Machine Learning and Deep Learning! This repository is based on the courses that I enrolled in ECE, UT, offering a collection of engaging mini-projects that will equip you with practical skills and a deeper understanding of Deep Learning concepts.
 
 **Sharpen Your Skills, Tackle Diverse Problems:**
 
@@ -13,7 +13,9 @@ This repository goes beyond theory, providing hands-on projects that address var
 * **(and more to come!)**
 
 ### Image
+
 ### Text
+* **Sentiment Analysis:** An IMDB sentiment analysis project using text preprocessing and multiple ML models.
 
 **Stay Tuned!** 
 
