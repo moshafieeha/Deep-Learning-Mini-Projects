@@ -1,4 +1,4 @@
-# Deep Learning Mini Projects
+# Machine Learning and Deep Learning Mini Projects
 Welcome to Deep-Learning-Mini-Projects, for exploring the exciting world of Deep Learning! This repository is based on the deep learning courses that I enrolled in ECE, UT, offering a collection of engaging mini-projects that will equip you with practical skills and a deeper understanding of Deep Learning concepts.
 
 **Sharpen Your Skills, Tackle Diverse Problems:**
