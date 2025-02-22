@@ -15,7 +15,7 @@ This repository goes beyond theory, providing hands-on projects that address var
 ### Image
 
 ### Text
-* ** Sentiment Analysis with ML:** An IMDB sentiment analysis project using text preprocessing and multiple ML models.
+* **Sentiment Analysis with ML:** An IMDB sentiment analysis project using text preprocessing and multiple ML models.
 
 **Stay Tuned!** 
 
